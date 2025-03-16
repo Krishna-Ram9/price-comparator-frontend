@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/price-comparator-frontend/static/css/main.dfaadd54.css",
-    "main.js": "/price-comparator-frontend/static/js/main.cd368dd7.js",
+    "main.js": "/price-comparator-frontend/static/js/main.31b8a733.js",
     "static/js/453.d9fef240.chunk.js": "/price-comparator-frontend/static/js/453.d9fef240.chunk.js",
-    "static/media/logo.svg": "/price-comparator-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/price-comparator-frontend/index.html",
     "main.dfaadd54.css.map": "/price-comparator-frontend/static/css/main.dfaadd54.css.map",
-    "main.cd368dd7.js.map": "/price-comparator-frontend/static/js/main.cd368dd7.js.map",
+    "main.31b8a733.js.map": "/price-comparator-frontend/static/js/main.31b8a733.js.map",
     "453.d9fef240.chunk.js.map": "/price-comparator-frontend/static/js/453.d9fef240.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfaadd54.css",
-    "static/js/main.cd368dd7.js"
+    "static/js/main.31b8a733.js"
   ]
 }
